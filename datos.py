@@ -3,7 +3,11 @@
 
 print("Hello World")
 variable = int(input("Ingrese numero x: "))
-if variable >= 2:
-  print("Numero mayor a 2")
-else:
-  print("Numero menor a 2")
+while variable != 2.
+
+	if variable >= 2:
+  		print("Numero mayor a 2")
+	else:
+  		print("Numero menor a 2")
+
+
