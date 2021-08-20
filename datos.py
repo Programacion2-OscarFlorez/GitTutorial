@@ -2,7 +2,7 @@
 
 
 print("Hello World")
-varariable = int(input("Ingrese numero x: "))
+variable = int(input("Ingrese numero x: "))
 if variable >= 2:
   print("Numero mayor a 2")
 else:
